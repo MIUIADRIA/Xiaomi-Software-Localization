@@ -1,0 +1,170 @@
+﻿<aurora>
+    <Strings>
+		<System>
+			<IDS_TITLE text="Title"/>
+			<IDS_NAME text="Name"/>
+			<IDS_TOOLTIP text="Tooltip"/>
+			<IDS_OK text="OK"/>
+			<IDS_CANCEL text="Cancel"/>
+			<IDS_ERROR text="Error"/>
+			<IDS_RETRY text="Retry"/>
+			<IDS_WARN text="Warning"/>
+			<IDS_SIZE text="Size"/>
+			<IDS_WINDOW text="Window"/>
+			<IDS_CLOSE text="Close"/>
+			<IDS_EXIT text="Exit"/>
+			<IDS_CUT text="Cut"/>
+			<IDS_COPY text="Copy"/>
+			<IDS_PASTE text="Paste"/>
+			<IDS_CLEAR text="Clear"/>
+			<IDS_UNDO text="Cancel"/>
+			<IDS_REDO text="Redo"/>
+			<IDS_DELETE text="Delete"/>
+			<IDS_SAVE text="Save"/>
+			<IDS_SAVE_AS text="Save as"/>
+			<IDS_SELECT text="Select"/>
+			<IDS_SELECT_ALL text="Select all"/>
+			<IDS_SYSTEM_CLOSE text="Close"/>
+			<IDS_SYSTEM_MAX text="Maximize"/>
+			<IDS_SYSTEM_RESTORE text="Restore"/>
+			<IDS_SYSTEM_MIN text="Minimize"/>
+		</System>
+		<MiWiFi>
+			<IDS_MIWIFI_TITLE text="Mi Pocket WiFi"/>
+			<IDS_SSID text="Network Name"/>
+			<IDS_CONFIGURATION text="Configuration"/>
+			<IDS_PSKKEY text="Network Password"/>
+			<IDS_DEVICES text=" devices"/>
+			<IDS_CONNECTED text="Connected"/>
+			<IDS_TRAFFIC_SAVED text="Saved traffic"/>
+			<IDS_CLOUND_DISK text="Cloud U Disk "/>
+			<IDS_SYNCHRONIZATING text="Synchronizing..."/>
+			<IDS_SHARE_DISK text="Shared Disk"/>
+			<IDS_FILES text=" files"/>
+			<IDS_PLEASE_INSERT_WIFI_CARD text="Please insert Mi Pocket WiFi"/>
+			<IDS_WIFI_IS_CREATING text="Creating WiFi..."/>
+			<IDS_WIFI_IS_CREATED text="WiFi network is set up successfully."/>
+			<IDS_WIFI_CRATED_FAILED text="Failed to establish WiFi connection."/>
+			<IDS_SSID_EDIT_TIP text="2-12 numbers, letters, or underscore"/>
+			<IDS_PASSWORD_EDIT_TIP text="8-12 numbers or letters"/>
+			<IDS_DISABLE_ENCRYPT text="Password is not set"/>
+			
+			<IDS_POPUP_TIP_TITLE text="Mi Pocket WiFi"/>
+			<IDS_ERROR_TIP_CONFIG_FAIL text="Configuration failed, please re-insert Pocket WiFi and try again."/>
+			<IDS_TIP_INSTALLING_DRIVER text="Installing driver..."/>
+			<IDS_TIP_CONFIGING_WIFI text="Configuring, please wait..."/>
+			<IDS_TIP_CHECKING_DEVICE text="Checking device, please wait..."/>
+			<IDS_TIP_CONFIG_SUCCEED text="Configuration has completed successfully!"/>
+			
+			<IDS_EDIT_TIP_USER_NAME_CANT_EMPTY text="User Name cannot be empty!"/>
+			<IDS_EDIT_TIP_USER_NAME_WRONG_FORMAT text="User Name format error!"/>
+			<IDS_EDIT_TIP_NOT_USE_PASSWORD text="Password cannot be emtpy, please reset!"/>
+			<IDS_EDIT_TIP_PASSWORD_WRONG_FORMAT text="Password format error!"/>
+			
+			<IDS_EDIT_PASSWORD_SETTING_DISABLED text="Password setup has been disabled."/>
+			<IDS_NO_PASSWORD_TIP text="No"/>
+			<IDS_PASSWORD text="Password"/>
+			
+			<IDS_CURRENT_VERSION text="Current Version"/>
+			<IDS_FAQ text="FAQ (Frequently Asked Questions)"/>
+			<IDS_USER_FORUM text="User Forum"/>
+			<IDS_PROBLEM_REPORT text="Issue Report"/>
+			<IDS_QUIT_DEVICE text="Unplug Device Safely"/>
+			<IDS_EXIT text="Exit"/>
+			
+			<IDS_SAVED_TRAFFIC_1 text="Saved Traffic"/>
+			<IDS_SAVED_TRAFFIC_2 text="Traffic"/>
+			<IDS_CONFIRM_CONNECT_AUTH_HINT text="Connection may be established only after your authentication."/>
+			
+			<IDS_CANCEL_WINDOW_TITLE text="System is closing" />
+		</MiWiFi>
+		<Settings>
+			<IDS_SETTINGS_TITLE text="Settings"/>
+			<IDS_SETTINGS_WIFI_NAME_TAG text="MiWiFi Name"/>
+			<IDS_SETTINGS_CONNECTION_TYPE text="Connection Type"/>
+			<IDS_SETTINGS_WIFI_PASSWORD_TAG text="MiWiFi Password"/>
+			<IDS_SETTINGS_CONNECTION_CONFIRM text="Connection is confirmed."/>
+			<IDS_SETTINGS_CONFIRM_STATEMENT text="It will ask you for authorization when connecting. It provides access only after your confirmation."/>
+			<IDS_SETTINGS_CONNECTION_NO_PASSWORD text="No Password"/>
+			<IDS_SETTINGS_NO_PASSWORD_STATEMENT text="No password is required to connect.(Not recommended, there may be a risk.)"/>
+			<IDS_SETTINGS_FUNCTION text="Function"/> 
+			<IDS_SETTINGS_FUNCTION_CONNECTION_NOTIFY text="Notify when someone connects."/>
+			<IDS_SETTINGS_FUNCTION_HIDE_WIFI text="Hide WiFi, so other mobile devices won't be able to connect to this network."/>	
+			<IDS_SETTINGS_BACKGROUND_COLOR text="Interface Colors"/>
+			<IDS_SETTINGS_BACKGROUND_DEFAULT_STATEMENT text="Consistent with WiFi default colors"/>
+			<IDS_SETTINGS_CUSTOM text="Customize"/>
+		</Settings>
+		<Devices>
+			<IDS_DEVICES_TITLE text="Device Management"/>
+			<IDS_DEVICES_COUNT text="%u device(s) is/are connected."/>
+			<IDS_DEVICES_XIAOMI3 text="Mi 3"/>
+			<IDS_DEVICES_CONNECTED text="(%u) is connected."/>
+			<IDS_DEVICES_APPLYING text="Attempting to connect (%u)."/>
+			<IDS_DEVICES_BLACKLIST text="Blacklist: (%u)"/>
+			<IDS_DEVICE_SPEED_LIMIT text="Speed limit"/>
+			<IDS_DEVICE_DISCONNECT text="Disconnect"/>
+			<IDS_DEVICE_MOVETO_BLACKLIST text="Move to Blacklist"/>
+      <IDS_DEVICE_SET_AS_ADMIN text="Set Administrator" />
+			<IDS_DEVICE_CONNECT_TIMES text="Connecting times:"/>
+			<IDS_DEVICE_CONNECT_TIME text="Connection time:"/>
+			<IDS_DEVICE_SAVE_TRAFFIC text="Save traffic:"/>
+			<IDS_DEVICE_SAVE_FEE text="Save on phone bill:"/>
+			<IDS_DEVICE_UNDER_SPEED_LIMIT text="Speed Limit Status:"/>
+			<IDS_DEVICE_NAME text="Device Name:"/>
+			<IDS_DEVICE_IP text="IP Address:"/>
+			<IDS_DEVICE_MANUFACTURER text="Manufacturer:"/>
+			<IDS_DEVICE_SPEED_LIMIT_TITLE text="Speed Limit"/>
+			<IDS_DEVICE_DOWNLOAD_SPEED text="Download Speed"/>
+			<IDS_DEVICE_UPLOAD_SPEED text="Upload Speed"/>
+			<IDS_DEVICE_SPEED_NO_LIMIT text="Unlimited"/>
+			<IDS_DEVICE_NOTICE_NEVER_PROMPT text="Never show this notice again."/>
+			<IDS_DEVICE_CONNECT_CONFIRM_PROMPT text="%s device is attempting to connect to your MiWiFi, do you approve its access?"/>
+			<IDS_DEVICE_CONNECT_NOTICE text="%s is already connected to your MiWiFi"/>
+			<IDS_DEVICE_APPLY_AGREE text="Authorize"/>
+			<IDS_DEVICE_APPLY_REJECT text="Reject"/>
+			<IDS_DEVICE_AUTO_CANCEL_FORMAT text="Cancel (%d)"/>
+			<IDS_DEVICE_NAME_DEFAULT text="Wireless device"/>
+			<IDS_DEVICE_MOVEOUT_BLACKLIST text="Remove"/>
+			<IDS_DEVICE_CONN_TIME_UNIT_D text="%u day(s) %u hour(s) %u minute(s)"/>
+			<IDS_DEVICE_CONN_TIME_UNIT_H text="%u hour(s) %u minute(s)"/>
+			<IDS_DEVICE_CONN_TIME_UNIT_M text="%u minute(s)"/>
+			<IDS_DEVICE_CONN_TIME_UNIT_S text="second(s)"/>
+			<IDS_DEVICE_CONN_FREQ_UNIT text="%u time(s)"/>
+			<IDS_DEVICE_PHONE text="Mobile Phone" />
+			<IDS_DEVICE_PC text="Computer" />
+			<IDS_DEVICE_ANDROID text="Android" />
+			<IDS_DEVICE_XIAOMI text="Mi"/>
+			<IDS_DEVICE_APPLE text="Apple" />
+			<IDS_DEVICE_SAMSUNG text="Samsung" />
+			<IDS_DEVICE_HTC text="HTC" />
+		</Devices>
+		<KuaiPanCloud>
+			<IDS_KUAIPAN_CLOUD_TIP text="Cloud U Disk"/>
+			<IDS_KUAIPAN_CLOUD_NAME text="MiWiFi Cloud U Disk"/>
+		</KuaiPanCloud>
+		<MiShare>
+			<IDS_MISHARE_TIP text="Shared Disk"/>
+			<IDS_MISHARE_NAME text="MiWiFi Shared Disk"/>
+			<IDS_MISHARE_ADD_FILE text="Add a shared file"/>
+			<IDS_MISHARE_CANCEL_SHARE text="Cancel sharing"/>
+			<IDS_MISHARE_TOTAL text="Total %u files shared" />
+			<IDS_MISHARE_MOBILE_USAGE_GUIDE text="How to browse by mobile?" />
+			<IDS_DRAG_HINT text="Drag files here to share"/>
+		</MiShare>
+		<Diagnose>
+			<IDS_ERROR_TIP_PLEASE_SELECT_PROBLEM_TYPE text="Please select the type of issue you have encountered."/>
+			<IDS_ERROR_TIP_PLEASE_INPUT_DETAIL text="Please enter a specific description of the issue you have encountered."/>
+			<IDS_PROBLEM_REPORT text="Issue Details"/>
+			<IDS_REPORT_PROBLEM_TYPE text="Issue Type:"/>
+			<IDS_PLEASE_SELECT_YOUR_PROBLEM_TYPE text="Please select issue type."/>
+			<IDS_LIST_ITEM_CREATE_FAIL text="After inserting Pocket WiFi, a message says 'Failed to establish WiFi connection.'"/>
+			<IDS_LIST_ITEM_CANNOT_CONNECTED text="WiFi is set up successfully. Phone cannot connect to Mi-xxxx's WiFi."/>
+			<IDS_LIST_ITEM_CONNECTED_BUT_NO_DATA text="WiFi is set up successfully. Phone is connected. Web pages cannot be viewed."/>
+			<IDS_LIST_ITEM_OTHER_PROBLEM text="Others (Please describe specifically.)"/>
+			<IDS_EDIT_TIP_DETAIL text="Describe specifically within 150 words"/>
+			<IDS_SUBMIT text="Submit"/>
+			<IDS_TIP_ALREADY_SUBMITTED text="Issue has been submitted. Thank you for your patience and participation!"/>
+			<IDS_CLOSE_WINDOW text="Close window"/>
+		</Diagnose>
+    </Strings>
+</aurora>
