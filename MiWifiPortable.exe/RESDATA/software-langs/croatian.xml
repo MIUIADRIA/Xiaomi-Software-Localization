@@ -38,12 +38,12 @@
 			<IDS_CONNECTED text="Povezano"/>
 			<IDS_TRAFFIC_SAVED text="Ušteđen promet"/>
 			<IDS_CLOUND_DISK text="Cloud U Disk "/>
-			<IDS_SYNCHRONIZATING text="Sinkronizacija..."/>
+			<IDS_SYNCHRONIZATING text="Sinkronizacija…"/>
 			<IDS_SHARE_DISK text="Dijeljeni Disk"/>
 			<IDS_FILES text=" datoteka"/>
-			<IDS_PLEASE_INSERT_WIFI_CARD text="Molimo umetnite Mi Pocket WiFi"/>
-			<IDS_WIFI_IS_CREATING text="Stvaranje WiFi..."/>
-			<IDS_WIFI_IS_CREATED text="WiFi mreža je uspješno postavljena."/>
+			<IDS_PLEASE_INSERT_WIFI_CARD text="Umetnite Mi Pocket WiFi"/>
+			<IDS_WIFI_IS_CREATING text="Kreiranje WiFi-ja…"/>
+			<IDS_WIFI_IS_CREATED text="Uspješno postavljena WiFi veza."/>
 			<IDS_WIFI_CRATED_FAILED text="Nije uspjelo uspostavljanje WiFi veze."/>
 			<IDS_SSID_EDIT_TIP text="2-12 brojeva, slova, ili underscore"/>
 			<IDS_PASSWORD_EDIT_TIP text="8-12 brojeva ili slova"/>
@@ -51,9 +51,9 @@
 			
 			<IDS_POPUP_TIP_TITLE text="Mi Pocket WiFi"/>
 			<IDS_ERROR_TIP_CONFIG_FAIL text="Konfiguracija nije uspjela, ponovno umetnite Pocket WiFi i pokušajte ponovo."/>
-			<IDS_TIP_INSTALLING_DRIVER text="Instaliranje upravljačkog programa..."/>
-			<IDS_TIP_CONFIGING_WIFI text="Konfiguracija, molimo pričekajte..."/>
-			<IDS_TIP_CHECKING_DEVICE text="Provjera uređaja, molimo pričekajte..."/>
+			<IDS_TIP_INSTALLING_DRIVER text="Instaliranje upravljačkog programa…"/>
+			<IDS_TIP_CONFIGING_WIFI text="Konfiguracija, molimo pričekajte…"/>
+			<IDS_TIP_CHECKING_DEVICE text="Provjera uređaja, molimo pričekajte…"/>
 			<IDS_TIP_CONFIG_SUCCEED text="Konfiguracija je uspješno završena!"/>
 			
 			<IDS_EDIT_TIP_USER_NAME_CANT_EMPTY text="Korisničko Ime ne može biti prazno!"/>
@@ -99,7 +99,7 @@
 			<IDS_DEVICES_COUNT text="%u uređaja je povezan(o)."/>
 			<IDS_DEVICES_XIAOMI3 text="Mi 3"/>
 			<IDS_DEVICES_CONNECTED text="(%u) je povezan."/>
-			<IDS_DEVICES_APPLYING text="Pokušaj povezivanja (%u)."/>
+			<IDS_DEVICES_APPLYING text="Pokušaja povezivanja (%u)."/>
 			<IDS_DEVICES_BLACKLIST text="Crna lista: (%u)"/>
 			<IDS_DEVICE_SPEED_LIMIT text="Ograničenje brzine"/>
 			<IDS_DEVICE_DISCONNECT text="Prekini vezu"/>
@@ -117,7 +117,7 @@
 			<IDS_DEVICE_DOWNLOAD_SPEED text="Brzina Preuzimanja"/>
 			<IDS_DEVICE_UPLOAD_SPEED text="Brzina Slanja"/>
 			<IDS_DEVICE_SPEED_NO_LIMIT text="Neograničeno"/>
-			<IDS_DEVICE_NOTICE_NEVER_PROMPT text="Nikad ne pokazuju ovu obavijest ponovno."/>
+			<IDS_DEVICE_NOTICE_NEVER_PROMPT text="Ne pokazuj ponovno."/>
 			<IDS_DEVICE_CONNECT_CONFIRM_PROMPT text="%s uređaj se pokušava povezati na vaš MiWiFi, odobravate li povezivanje?"/>
 			<IDS_DEVICE_CONNECT_NOTICE text="%s je već povezan na vaš MiWiFi"/>
 			<IDS_DEVICE_APPLY_AGREE text="Autoriziraj"/>
@@ -145,7 +145,7 @@
 		<MiShare>
 			<IDS_MISHARE_TIP text="Dijeljeni Disk"/>
 			<IDS_MISHARE_NAME text="MiWiFi Dijeljeni Disk"/>
-			<IDS_MISHARE_ADD_FILE text="Dodaj dijeljenu datoteku"/>
+			<IDS_MISHARE_ADD_FILE text="Dodaj datoteku"/>
 			<IDS_MISHARE_CANCEL_SHARE text="Otkaži dijeljenje"/>
 			<IDS_MISHARE_TOTAL text="Ukupno %u dijeljenih datoteka" />
 			<IDS_MISHARE_MOBILE_USAGE_GUIDE text="Kako pregledavati sa mobitela?" />
@@ -157,8 +157,8 @@
 			<IDS_PROBLEM_REPORT text="Pojedinosti problema"/>
 			<IDS_REPORT_PROBLEM_TYPE text="Vrsta problema:"/>
 			<IDS_PLEASE_SELECT_YOUR_PROBLEM_TYPE text="Molimo odaberite vrstu problema."/>
-			<IDS_LIST_ITEM_CREATE_FAIL text="Nakon umetanja Pocket WiFi, poruka kaže 'Nije uspjelo uspostavljanje WiFi povezivanja.'"/>
-			<IDS_LIST_ITEM_CANNOT_CONNECTED text="WiFi je postavljen uspješno. Telefon se ne može povezati sMi-xxxx's WiFi."/>
+			<IDS_LIST_ITEM_CREATE_FAIL text="Nakon umetanja Pocket WiFi-ja, poruka kaže 'Nije uspjelo uspostavljanje WiFi povezivanja.'"/>
+			<IDS_LIST_ITEM_CANNOT_CONNECTED text="WiFi je postavljen uspješno. Telefon se ne može povezati s Mi-xxxx WiFi."/>
 			<IDS_LIST_ITEM_CONNECTED_BUT_NO_DATA text="WiFi je postavljen uspješno. Telefon je povezan. Web stranice se ne mogu vidjeti."/>
 			<IDS_LIST_ITEM_OTHER_PROBLEM text="Ostalo (Molimo opišite konkretno.)"/>
 			<IDS_EDIT_TIP_DETAIL text="Opišite konkretno u 150 riječi"/>
